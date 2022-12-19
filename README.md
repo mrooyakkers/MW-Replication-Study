@@ -1,4 +1,4 @@
-#Evaluating the Wandering Mind’s Role in Learning: An Extension Study
+# Evaluating the Wandering Mind’s Role in Learning: An Extension Study
 
 
 Previous research has suggested that mindwandering can be detrimental to learning and attention. 
